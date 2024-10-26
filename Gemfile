@@ -61,3 +61,5 @@ end
 gem "bootstrap", "~> 5.3"
 
 gem "devise", "~> 4.9"
+
+gem "dockerfile-rails", ">= 1.6", :group => :development
